@@ -1,1 +1,2 @@
-app.name=simple app
+app:
+  name: simple app
